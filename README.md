@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lolpprogamer666
+- 👀 I’m interested in Bots
+- 🌱 I’m currently learning Node js
+- 💞️ I’m looking to collaborate on Hacker
+- 📫 How to reach me Discord:lolp666#8986
