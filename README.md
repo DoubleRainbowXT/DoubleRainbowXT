@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lolpprogamer666
 - 👀 I’m interested in Bots
 - 🌱 I’m currently learning Node js and termux and python
-- 💞️ I’m looking to collaborate on Hacker
+- 💞️ I’m looking to collaborate on Hacking
 - 📫 How to reach my Discord:666 ???#3781
