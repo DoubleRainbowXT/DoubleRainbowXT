@@ -5,4 +5,4 @@
 - 📫 How to reach my Discord: .trueanarchy
 
 ![DoubleRainbowXT's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleRainbowXT&show_icons=true&theme=radical)  ![Github Profile Views:](https://komarev.com/ghpvc/?username=DoubleRainbowXT&color=blueviolet)
-![LOL](https://ezstat.ru/19nzS4.png)
+
