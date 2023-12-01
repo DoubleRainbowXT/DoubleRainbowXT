@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DoubleRainbowXT
-- 👀 I’m interested in Bots
-- 🌱 I’m currently learning Node js and termux and python
-- 💞️ I’m looking to collaborate on Hacking
+- 👀 I’m interested in a little bit of everything all of the time.
+- 🌱 I’m currently learning ethical Hacking.
+- 💞️ I’m looking to collaborate on only fans (joke)
 - 📫 How to reach my Discord: .trueanarchy
